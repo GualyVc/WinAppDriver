@@ -1,0 +1,13 @@
+E:\src\Automation\bin\Debug\netcoreapp2.1\Automation.deps.json
+E:\src\Automation\bin\Debug\netcoreapp2.1\Automation.dll
+E:\src\Automation\bin\Debug\netcoreapp2.1\Automation.pdb
+E:\src\Automation\obj\Debug\netcoreapp2.1\Automation.csprojAssemblyReference.cache
+E:\src\Automation\obj\Debug\netcoreapp2.1\Automation.AssemblyInfoInputs.cache
+E:\src\Automation\obj\Debug\netcoreapp2.1\Automation.AssemblyInfo.cs
+E:\src\Automation\obj\Debug\netcoreapp2.1\Automation.dll
+E:\src\Automation\obj\Debug\netcoreapp2.1\Automation.pdb
+E:\src\Automation\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\src\Automation\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+E:\src\Automation\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+E:\src\Automation\bin\Debug\netcoreapp2.1\Automation.runtimeconfig.json
+E:\src\Automation\bin\Debug\netcoreapp2.1\Automation.runtimeconfig.dev.json
